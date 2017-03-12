@@ -1,0 +1,31 @@
+|id|title|username|password|remarks|tag|url|
+|1|Web Base|yahuishuo|365141210|本地django网站管理员| |http://localhost:8000|
+|2|test|administrator||| ||
+|3|github|yahuishuo@gmail.com|yahuishuo365|||http://github.com|
+|4|百度|dale365|dale365141210|| |http://baidu.com|
+|5|百度|dale365@qq.com|365141210|| |http://baidu.com|
+|6|新浪|dale365@sohu.com|dale365141210|| |http://sina.com|
+|7|谷歌|yahuishuo@gmail.com|365141210|| |http://google.com/hk|
+|8|乐道主机|dale365@qq.com|365141210|| |http://www.seowebs.cn|
+|9|segmentfault|yahuishuo@gmail.com|365141210|第三方登录| |http://segmentfault.com|
+|10|runabove|yahuishuo@gmail.com|365141210|vps| |http://runabove.com|
+|11|Nitrous|yahuishuo|365141210|optional:github| |http://nitrous.io|
+|12|twitter|yahuishuo@gmail.com|365141210|| |http://twitter.com|
+|13|七牛|yahuishuo@gmail.com|365141210|| |http://qiniu.com|
+|14|coding|yahuishuo|365141210|| |http://coding.net|
+|15|razer|yahuishuo@gmail.com|dale365141210|| |http://razer.com|
+|16|熊猫tv|15902020817|365141210|| |http://panda.tv|
+|17|miWIFI||15902020817|| ||
+|18|steam|yahuishuo|Dale365141210|| ||
+|19|菜鸟C4D|||QQ账号登录||http://c4dcn.com|
+|20|微信公众号|yahuishuocom|yahuishuo365|| ||
+|21|你拍一科技|yahuishuo|365141210|vps| ||
+|22|adobe|yahuishuo@gmail.com|Dale365141210|| |http://adobe.com|
+|23|小米|114360261|Dale365141210|| ||
+|24|网易云音乐|15902020817|365141210|| |http://music.163.com|
+|25|cnblogs|dale365|dale_365|| |http://cnblogs.com|
+|26|作业部落|yahuishuo|365141210|| |http://zybuluo.com|
+|27|智联招聘|15902020817|yahuishuo365|| |http://zhaopin.com|
+|28|前程无忧|15902020817|yahuishuo_365|| |http://51job.com|
+|29|58同城|15902020817|yahuishuo365|| |http://58.com|
+|30|csdn|||微博账号登录||http://csdn.net|
